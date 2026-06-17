@@ -2,32 +2,49 @@
   <img src="https://github.com/ayoubelhilali.png" width="150" height="150" alt="Ayoub EL HILALI" style="border-radius: 50%; border: 3px solid #0e75b6;" />
   
   <h1>Hi <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />, I'm Ayoub EL HILALI</h1>
-  <h3>Software Engineering Student | Full Stack Developer | AI Enthusiast</h3>
+  <h3>Software Engineering Student | Full Stack Developer</h3>
   
-  <p>
-    State Engineer student in Computer Engineering at ENSA, passionate about solving real-world problems using Computer Vision, Machine Learning, and modern software architecture. I specialize in building complex desktop and web solutions, from automated grading systems to structured backend applications.
-  </p>
-  
-  <p> 
-    <a href="https://github.com/ayoubelhilali">
-      <img src="https://komarev.com/ghpvc/?username=ayoubelhilali&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views"/> 
-    </a>
-  </p>
+  <blockquote>
+  <p>I build complex desktop and web solutions that matter. By combining <b>modern software architecture</b> with AI components like <b>Computer Vision and NLP</b>, I turn ideas into robust, scalable applications—from intelligent grading tools to enterprise-grade backends.</p>
+</blockquote>
+
+<p> 
+  <a href="https://github.com/ayoubelhilali">
+    <img src="https://komarev.com/ghpvc/?username=ayoubelhilali&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views"/> 
+  </a>
+</p>
 <br>
 </div>
 
----
+<!-- Separator line -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Blue Line Divider" />
+</div>
 
-### 🚀 About Me
-<img align="right" alt="Coding GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+### 🚀 Developer Profile
 
-- 🔭 I’m currently working on **desktop and web applications** bridging software architecture and AI.  
-- 🌱 I’m currently learning and expanding my skills in **Django**, **Spring Boot**, and **Java**.  
-- 🏆 **Certifications:** Oracle Java Foundations.
-- 💼 **Portfolio:** [ayoubelh.vercel.app](https://ayoubelh.vercel.app)  
-- 📫 **Reach me at:** [ayoub.elhilali@etu.uae.ac.ma](mailto:ayoub.elhilali@etu.uae.ac.ma)
+<table>
+  <tr>
+    <td width="65%">
+      <b>🔭 Current Focus:</b><br>
+      Building <b>desktop and web applications</b> that bridge modern software architecture and AI.<br><br>
+      <b>🌱 Leveling Up:</b><br>
+      Expanding my backend and framework expertise in <b>Django, Spring Boot, and Java</b>.<br><br>
+      <b>🏆 Certifications:</b><br>
+      Oracle Java Foundations.<br><br>
+      <b>🔗 Connect & Explore:</b><br>
+      💼 <a href="https://ayoubelh.vercel.app"><b>My Portfolio</b></a> | 📫 <a href="mailto:ayoub.elhilali@etu.uae.ac.ma"><b>Email Me</b></a>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="180" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
----
+<!-- Separator line -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Blue Line Divider" />
+</div>
 
 ### ⚡️ GitHub Stats
 <div align=center>
@@ -39,7 +56,10 @@
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubelhilali&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&title_color=0e75b6" alt="Most Used Languages" />
 </div>
   
----
+<!-- Separator line -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Blue Line Divider" />
+</div>
 
 ### 💻 Featured Projects
 
@@ -52,7 +72,10 @@
 | **[StudEnroll](https://github.com/ayoubelhilali/StudEnroll)** | Polyglot microservices architecture for student course enrollment. | `Spring Cloud` `React` `Microservices` |
 | **[MEDNOVA](#)** | Desktop medical management system for healthcare. | `C` `GTK4` |
 
----
+<!-- Separator line -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Blue Line Divider" />
+</div>
 
 ### 🛠️ Languages and Tools
 
@@ -81,7 +104,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
+<!-- Separator line -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Blue Line Divider" />
+</div>
 
 ### 📫 Let's Connect & Collaborate
 
@@ -100,8 +126,11 @@
   </a>
 </p>
 
----
+<!-- Separator line -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Blue Line Divider" />
+</div>
 
 <div align="center">
-  <img src="https://imgur.com/rilHVxA.png" alt="Footer graphic"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=System.out.println(%22Thanks+for+visiting!%22);Building+scalable+solutions...;Turning+coffee+into+code...;Let's+connect+and+collaborate!" alt="Typing SVG" />
 </div>
