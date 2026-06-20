@@ -55,6 +55,14 @@
 <div align=center>
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubelhilali&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&title_color=0e75b6" alt="Most Used Languages" />
 </div>
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+	<a href="https://github.com/ayoubelhilali"><img alt="Ayoub's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ayoubelhilali&custom_title=Ayoub%20Elhilali's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
   
 <!-- Separator line -->
 <div align="center">
